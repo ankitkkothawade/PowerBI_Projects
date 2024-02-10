@@ -26,4 +26,4 @@ List of contributors or resources used in this project.
 
 If you have any questions, feel free to contact [Your Name](mailto:your_email@example.com).
 
-![Project Demo](Product-Review-Dashboard/ezgif-4-40053fe7c2-ezgif.com-video-to-gif-converter.gif)
+![Project Demo](https://github.com/ankitkkothawade/PowerBI_Projects/blob/main/Product-Review-Dashboard/ezgif-4-40053fe7c2-ezgif.com-video-to-gif-converter.gif)
